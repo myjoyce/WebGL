@@ -284,5 +284,5 @@ function to_change(rName) {
 		}
 	}
 }
-//Thanks for 201512203501016haotongxue's help
+
 window.onload = init1;
